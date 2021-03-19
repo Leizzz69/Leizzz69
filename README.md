@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Leizzz69
+- 👀 I’m interested in coding in general
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: eggenfellner@protonmail.com
