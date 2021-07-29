@@ -1,7 +1,15 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MiguelRAvila/MiguelRAvila/master/img/profile/wave.gif" width="24px">
 
-My interest in programming started when I was in high school.
-While in high school I learnt HTML5, CSS3, JavaScript ES6, PHP, SQL, MySQL and Python.
+<p>
+  <a href="https://www.linkedin.com/in/leif-eggenfellner-a81bab216/" style='margin-top:5px'</a>
+  <img align="center" src="https://pngtree.com/so/linkedin-icons" alt="linkedin" height="30px" width="30px" />
+  </a>
+ </p>
 
-I am currently studying Electrical Engineering at NTNU in Trondheim, Norway.
-In my bachelor’s degree programme I will be working with arduinos and design circuit boards.
+I'm a **student** in Trondheim, Norway. I'm currently working on my **bachelor’s degree** in **Electrical Engineering**.
+My goal in life is to be working with **Cybernetics and Robotics**.
+
+- ⭐ Student at NTNU.
+- ✅ I know `Python`, `JavaScript`, `HTML`, `SCSS`, `PHP`, `MySQL`.
+- 🌱 Currently learning Arduino Programming and PCB Design.
+- 💻 Student who loves programming.
