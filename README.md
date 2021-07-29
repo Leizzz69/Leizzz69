@@ -5,6 +5,3 @@ While in high school I learnt HTML5, CSS3, JavaScript ES6, PHP, SQL, MySQL and P
 
 I am currently studying Electrical Engineering at NTNU in Trondheim, Norway.
 In my bachelor’s degree programme I will be working with arduinos and design circuit boards.
-
-Currently I am working on improving my Python knowledge.
-At the moment I am learning how to automate tasks.
