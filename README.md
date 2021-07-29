@@ -1,4 +1,4 @@
-Hi, I'm Leif Eggenfellner.
+### Hi, I'm Leif Eggenfellner.
 
 My interest in programming started when I was in high school.
 While in high school I learnt HTML5, CSS3, JavaScript ES6, PHP, SQL, MySQL and Python.
