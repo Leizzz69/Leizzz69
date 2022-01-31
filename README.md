@@ -7,7 +7,6 @@
  </p>
 
 I'm a **Student** in Trondheim, Norway. I'm currently working on my **bachelor’s degree** in **Electrical Engineering**.
-My goal in life is to be building **robots**.
 
 - ⭐ Student at NTNU.
 - ✅ I know `Python`, `JavaScript`, `HTML`, `SCSS`, `PHP`, `MySQL`.
