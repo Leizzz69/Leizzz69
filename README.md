@@ -9,6 +9,6 @@
 I'm a **Student** in Trondheim, Norway. I'm currently working on my **bachelor’s degree** in **Electrical Engineering**. On the side I work as a **Software Developer** in **Secunor**, and a **DevOps Engineer** in **Orbit NTNU**.
 
 - ⭐ Student at NTNU.
-- ✅ I know `Python`, `JavaScript`, `HTML`, `SCSS`, `PHP`, `MySQL`.
-- 🌱 Currently learning Arduino Programming and PCB Design.
+- ✅ I know `Python`, `JavaScript`, `Svelte`, `SCSS`, `PHP`, `MySQL`.
+- 🌱 Currently learning C++ and TypeScript.
 - 💻 Student who loves programming.
