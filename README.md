@@ -6,9 +6,9 @@
   </a>
  </p>
 
-I'm a **Student** in Trondheim, Norway. I'm currently working on my **bachelor’s degree** in **Electrical Engineering**. On the side I work as a **Software Developer** in **Secunor**, and a **DevOps Engineer** in **Orbit NTNU**.
+I'm a **Student** in Trondheim, Norway. I'm currently working on my **bachelor’s degree** in **Informatics**. On the side I work as a **Software Developer** in **Secunor**, and a **DevOps Engineer** in **Orbit NTNU**.
 
 - ⭐ Student at NTNU.
-- ✅ I know `Python`, `JavaScript`, `Svelte`, `SCSS`, `PHP`, `MySQL`.
-- 🌱 Currently learning C++ and TypeScript.
+- ✅ I know `Python`, `JavaScript`, `Svelte`, `C++`, `CSS`, `Tailwind CSS`, `MySQL`, `PHP`.
+- 🌱 Currently learning TypeScript and CI/CD in GitHub and GitLab.
 - 💻 Student who loves programming.
