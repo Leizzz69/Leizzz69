@@ -6,7 +6,7 @@
   </a>
  </p>
 
-I'm a **Student** in Trondheim, Norway. I'm currently working on my **bachelor’s degree** in **Informatics**. On the side I work as a **Security Software Developer** in **Secunor**, and I am **DevOps Team Leader** in **Orbit NTNU**.
+I'm a **Student** in Trondheim, Norway. I'm currently working on my **bachelor’s degree** in **Informatics**. On the side I work as a **Security Software Developer** in **Secunor**, and I am a **DevOps Team Leader** in **Orbit NTNU**.
 
 - ⭐ Student at NTNU.
 - ✅ I know `Python`, `JavaScript`, `SvelteKit`, `React`, `C++`, `CSS`, `Tailwind CSS`, `MySQL`, `PHP`.
