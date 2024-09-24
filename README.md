@@ -9,5 +9,5 @@
 I'm a **Student** in Trondheim, Norway. I'm currently working on my **bachelor’s degree** in **Informatics**. On the side I work as a **Sattelite Communications Engineer** in **Orbit NTNU**.
 
 - ⭐ Student at NTNU.
-- ✅ I know `Python`, `Rust`, `TypeScript`, `JavaScript`, `Java`, `Svelte`, `SvelteKit`, `React`, `C`, `C++`, `CSS`, `Tailwind CSS`, `PHP`, `MySQL`, `PostgreSQL`, `Docker`.
+- ✅ I know `Python`, `Rust`, `TypeScript`, `JavaScript`, `Java`, `Svelte`, `SvelteKit`, `React`, `Next.js`, `C`, `C++`, `CSS`, `Tailwind CSS`, `PHP`, `MySQL`, `PostgreSQL`, `Docker`.
 - 💻 Student who loves programming.
